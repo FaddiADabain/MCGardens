@@ -8,17 +8,15 @@ Welcome to MCGardens, a comprehensive web-based application that integrates plan
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Contributors](#contributors)
-- [Acknowledgments](#acknowledgments)
-- [References](#references)
 
 ## Project Overview
-MCGardens offers a platform for both novice and experienced gardeners to access extensive plant care knowledge, weather forecasts, and community tools. It allows users to interact with dynamic content on plants, weather updates, and community events, fostering a deeper connection with gardening and community interaction.
+MCGardens offers a platform for both novice and experienced gardeners to access plant care knowledge, weather forecasts, and community tools. It allows users to interact with dynamic content on plants, weather updates, and community events, fostering a deeper connection with gardening and community interaction.
 
 ## Features
 - **User Authentication**: Secure login and registration system using Firebase.
 - **Plant Care Guide**: Personalized plant care information via OpenAI and Unsplash APIs.
 - **Weather Updates**: Live weather information tailored to user location.
-- **Event Management**: Tools for creating and managing community gardening events.
+- **Event Management**: Tools for creating and managing user created events.
 - **Discussion Forum**: A platform for users to discuss and share gardening tips.
 
 ## Technologies Used
@@ -30,3 +28,9 @@ MCGardens offers a platform for both novice and experienced gardeners to access 
 ## Getting Started
 Visit the following website to view the live and running code for yourself!
 [https://mcgardens-bd0b1.web.app/](https://mcgardens-bd0b1.web.app/)
+
+## Contributors
+- Faddi Dabain
+- Lauren Kaweki
+- Alex Gibbons
+- Thierno Diallo
