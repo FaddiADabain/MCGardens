@@ -26,7 +26,7 @@ MCGardens offers a platform for both novice and experienced gardeners to access 
 - **Database**: Firebase Realtime Database
 
 ## Getting Started
-Visit the following website to view the live and running code for yourself!
+Visit the following website to view the live and running code for yourself!<br/>
 [https://mcgardens-bd0b1.web.app/](https://mcgardens-bd0b1.web.app/)
 
 ## Contributors
